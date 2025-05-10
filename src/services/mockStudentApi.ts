@@ -59,6 +59,7 @@ const sampleStudents: Student[] = [
     age: 21,
     course: 'Data Science',
     enrollmentDate: '2023-08-25',
+    grade: 'B-',
     profileImage: 'https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=150'
   },
   {
